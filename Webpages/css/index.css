@@ -3,19 +3,29 @@ body
 	color: #71c9ce;
 	font-family: sans-serif;
 }    
+
 .intro
 {		
 	vertical-align: top;
 }
+
+.rounding
+{
+	border-radius: 100%;
+}
+
+
 .content
 {
 	font-size: 20px;
 	text-align: justify;
 }
+
 .bg
 {
 	background-color:#e3fdfd;
 }
+
 hr
 {   
 	border-style:none;
